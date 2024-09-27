@@ -1,0 +1,19 @@
+{
+  "name": "github-actvitiy-cli",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "node-libcurl": "^4.0.0",
+    "octokit": "^4.0.2",
+    "querystring": "^0.2.1"
+  }
+}
